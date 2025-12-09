@@ -22,4 +22,4 @@ Built with Swift and powered by Firebase Firestore, Authentication, and Storage,
 
 ## Screenshot Collection (PDF)
 All app screenshots are available in a single consolidated PDF:  
-docs/TrevTravel_screenshots.pdf
+[View TrevTravel screenshots](TrevTravel_screenshots.pdf)
